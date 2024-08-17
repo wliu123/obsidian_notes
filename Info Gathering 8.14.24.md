@@ -79,3 +79,5 @@ Regarding costs and maintenance fees, these can vary widely based on the complex
 - More complex systems: $1,000 - $5,000+ per month
 
 App should work like an uber eats delivery. Location package was placed. Live chat is needed to speak with the customer for gate code or apartment code. No customer service needed. If theres emergency packages to be sent then will find another driver. Warehouse typically splits the packages that need to be separated and delivered by drivers the day before. After the driver drops off the package, should be able to take a picture and write a note of where the package is located and it should probably go to the warehouse which then gets pushed to the customer.
+
+When app is offline and in a no-signal area, user wants to be able to still take a photo and the status of the package to be in a wait mode and then when user gets signal again be able to send the notice that delivery is complete.

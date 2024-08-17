@@ -1,1 +1,0 @@
-This note will serve as the central hub for the overall project. The purpose of this project is to 
