@@ -11,21 +11,27 @@ The purpose of this section is to provide a general overview of the goals and ob
 - Having a functioning MVP is key to ensure a longer term agreement with client
 ## Detailed Information
 
-
+This is the first time for the client in asking to have an app built for his business. His business is also new and has yet to sign an agreement with a warehouse; however, he has 2 other business partners and the 3 of them together are expected to have capital to start their business. Client currently has no budget constraints primarily because he's unaware of the costs of building an app and developer has informed client that we will bring documentation on features we will be providing and they will need to agree on certain aspects of the app in order for us to provide an accurate quotation.
 
 ## Decisions and Open Questions
+
+- [ ] Agreed upon price for MVP of application
+- [ ] Agreed upon feature development for application
+- [ ] Overall Timeline for the development of the application
+- [ ] Expenditures expected on developer side
 
 
 ## Related Sections
 
+- [[Info Gathering 8.14.24]]
 
 ## Resources
 
 
 ---
-tags: []
-status:
-assigned:
+tags: [budget, project, objectives]
+status: in-progress
+assigned: William
 
 ---
 Last Updated: 8/17/2024
