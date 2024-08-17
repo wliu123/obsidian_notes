@@ -9,7 +9,7 @@ This note will serve as the central hub for the overall project. The purpose of 
 5. [[Technical Specifications]]
 6. [[Architecture Design]]
 7. [[User Interface Design]]
-8. [[user Experience Design]]
+8. [[User Experience Design]]
 9. [[Security and Privacy]]
 10. [[Testing Strategy]]
 11. [[Performance Optimization]]

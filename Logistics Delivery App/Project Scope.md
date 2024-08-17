@@ -19,6 +19,7 @@ This is the first time for the client in asking to have an app built for his bus
 - [ ] Agreed upon feature development for application
 - [ ] Overall Timeline for the development of the application
 - [ ] Expenditures expected on developer side
+- [ ] When does client sign agreement with warehouse?
 
 
 ## Related Sections
