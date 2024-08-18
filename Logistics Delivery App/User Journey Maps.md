@@ -39,7 +39,7 @@ Notes:
 - [[Project Scope]]
 - [[User Personas]]
 ---
-tags: #lifecycle #packagecycle
+tags: #lifecycle #packagecycle #project
 status: in-progress
 assigned: William
 

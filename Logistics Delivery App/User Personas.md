@@ -47,7 +47,7 @@ Customers should not have access to the app and will only be the recipients of t
 
 
 ---
-tags: #persona #driver #customer #warehouse 
+tags: #driver #customer #warehouse #project
 status: in-progress
 assigned: William
 
