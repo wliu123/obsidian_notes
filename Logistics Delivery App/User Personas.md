@@ -41,12 +41,13 @@ Customers should not have access to the app and will only be the recipients of t
 
 - [[Info Gathering 8.14.24]]
 - [[Project Scope]]
+- [[User Journey Maps]]
 
 ## Resources
 
 
 ---
-tags: [persona, driver, customer, warehouse]
+tags: #persona #driver #customer #warehouse 
 status: in-progress
 assigned: William
 

@@ -30,7 +30,7 @@ This is the first time for the client in asking to have an app built for his bus
 
 
 ---
-tags: [budget, project, objectives]
+tags: #budget #project #objectives
 status: in-progress
 assigned: William
 

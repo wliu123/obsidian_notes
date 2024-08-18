@@ -33,8 +33,13 @@ Notes:
 - Driver decides whether able to return to missed package destination or not
 - Offline photo capture for areas with poor reception
 
+## Related Sections
+
+- [[Info Gathering 8.14.24]]
+- [[Project Scope]]
+- [[User Personas]]
 ---
-tags: [lifecycle, delivery cycle]
+tags: #lifecycle #packagecycle
 status: in-progress
 assigned: William
 
